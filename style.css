@@ -1,0 +1,63 @@
+body{
+    border: solid 10px;
+    border-color: black;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+   
+    
+}
+.all{
+    background-color: antiquewhite;
+}
+img{
+    height: 220px;
+    width: 310px;
+    border: solid;
+    color: black;
+    border-radius: 40px 20px;
+   margin-left: 90px;
+   margin-top: 90px;
+}
+.name
+    {
+     font-family:  cursive;
+     font-size: 40px;
+     color: rgb(11, 11, 11);
+     position: absolute;
+     left: 550px;
+     top: 220px;
+}
+.name1
+    {
+     font-family:  cursive;
+     font-size: 20px;
+     color: rgb(11, 11, 11);
+     position: absolute;
+     left: 800px;
+     top: 270px;
+}
+.text{
+    margin: 80px;
+   
+}
+.text1{
+    font-size: 70px;
+}
+.text2{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+}
+.text3{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    padding: 30px;
+    background-color: rgb(212, 137, 45);
+    text-align: center;
+}
+.text4{
+    
+    font-size: 30px;
+}
